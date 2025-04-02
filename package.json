@@ -1,0 +1,20 @@
+{
+  "name": "wk1-js-practice-1",
+  "version": "1.0.0",
+  "description": "My Week 1 Javascript Challenges Project Welcome to my Week 1 JavaScript Challenges project! This is a fun little collection of toy problems that I worked on to practice and improve my JavaScript skills. The project includes three different challenges, each with a unique task to solve. Let's dive in!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufmim/Wk1-JS-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufmim/Wk1-JS-Practice/issues"
+  },
+  "homepage": "https://github.com/yusufmim/Wk1-JS-Practice#readme"
+}
